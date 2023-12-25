@@ -1,0 +1,49 @@
+* {
+    text-align: center;
+}
+
+body {
+     background-color: rgb(255,192,203);
+  }
+
+h1 {
+    
+    color:blue;
+    border: 2px solid blue;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 10px 20px;
+}
+
+h2 {
+    color: blue;
+    border: 2px solid blue;
+    margin: 10px 500px;
+}
+
+h3 {
+    color: blue;
+    border: 2px solid blue;
+    margin: 10px 500px;
+}
+
+li {
+    color: blue;
+}
+
+ul {
+    list-style: none;
+}
+
+.primo {
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.secondo {
+    font-weight: 700;
+}
+
+.terzo {
+    font-weight: 700;
+}
